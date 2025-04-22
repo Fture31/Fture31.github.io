@@ -181,7 +181,7 @@ export const Contact: React.FC = () => {
         </div>
         
         {/* Map */}
-        <div className="mt-12 rounded-lg overflow-hidden shadow-lg h-[400px] relative">
+        {/* <div className="mt-12 rounded-lg overflow-hidden shadow-lg h-[400px] relative">
           <iframe
             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d123857.36037174966!2d-17.54338555!3d14.72129795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xec172f5b3c5bb71%3A0xb17c17d92d5db21f!2sDakar%2C%20Senegal!5e0!3m2!1sen!2s!4v1664992745185!5m2!1sen!2s"
             className="w-full h-full border-0"
@@ -190,7 +190,7 @@ export const Contact: React.FC = () => {
             referrerPolicy="no-referrer-when-downgrade"
             title="Map location"
           ></iframe>
-        </div>
+        </div> */}
       </Container>
     </section>
   );

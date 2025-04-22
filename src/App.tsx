@@ -42,9 +42,10 @@ function App() {
         <Services />
         <About />
         <Projects />
+        <Partners />
         <Testimonials />
         <Contact />
-        <Partners />
+        
       </main>
       <Footer />
     </div>
