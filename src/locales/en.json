@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "projects": "Projects",
+    "about": "About",
+    "contact": "Contact",
+    "freeQuote": "Free Quote"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Expertise in Hydraulic Works",
+        "subtitle": "Professional construction and rehabilitation"
+      },
+      {
+        "title": "Architectural and Technical Studies",
+        "subtitle": "Tailored solutions for your projects"
+      },
+      {
+        "title": "Building Construction",
+        "subtitle": "Excellence and innovation in every project"
+      }
+    ],
+    "description": "We are experts in project management, architectural and hydraulic studies, control and supervision of major construction projects.",
+    "buttons": {
+      "services": "Our Services",
+      "projects": "Our Projects"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Complete engineering and construction solutions",
+    "description": "We offer a complete range of engineering and construction services to meet all your infrastructure needs.",
+    "items": [
+      {
+        "title": "Hydraulic Works",
+        "description": "Construction and rehabilitation of urban and rural hydraulic infrastructure for water supply."
+      },
+      {
+        "title": "Building Construction",
+        "description": "Construction of residential, commercial and industrial structures to the highest quality standards."
+      },
+      {
+        "title": "Architectural Studies",
+        "description": "Detailed design and planning of innovative and functional architectural projects."
+      },
+      {
+        "title": "Topography",
+        "description": "Precise topographic surveys and detailed terrain mapping for optimal planning."
+      },
+      {
+        "title": "Site Supervision",
+        "description": "Rigorous control and expert monitoring of works to ensure compliance with plans and standards."
+      },
+      {
+        "title": "Technical Consultation",
+        "description": "Professional expertise and advice to optimize your construction and engineering projects."
+      }
+    ],
+    "cta": {
+      "description": "Our team of experts is ready to tackle all your technical challenges and support you at every stage of your project, from design to completion.",
+      "button": "Request a Quote"
+    }
+  },
+  "partners": {
+    "title": "Our Partners",
+    "subtitle": "Trusted by leading organizations",
+    "description": "We collaborate with prestigious institutions and organizations to deliver excellence in every project."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "projects": "Projets",
+    "about": "À propos",
+    "contact": "Contact",
+    "freeQuote": "Devis Gratuit"
+  },
+  "hero": {
+    "slides": [
+      {
+        "title": "Expertise en Ouvrages Hydrauliques",
+        "subtitle": "Construction et réhabilitation professionnelle"
+      },
+      {
+        "title": "Études Architecturales et Techniques",
+        "subtitle": "Des solutions sur mesure pour vos projets"
+      },
+      {
+        "title": "Construction de Bâtiments",
+        "subtitle": "Excellence et innovation dans chaque projet"
+      }
+    ],
+    "description": "Nous sommes experts en maîtrise d'œuvre, études architecturales et hydrauliques, contrôle et supervision de projets de construction d'envergure.",
+    "buttons": {
+      "services": "Nos Services",
+      "projects": "Nos Réalisations"
+    }
+  },
+  "services": {
+    "title": "Nos Services",
+    "subtitle": "Solutions complètes d'ingénierie et de construction",
+    "description": "Nous proposons une gamme complète de services d'ingénierie et de construction pour répondre à tous vos besoins en matière d'infrastructures.",
+    "items": [
+      {
+        "title": "Ouvrages Hydrauliques",
+        "description": "Construction et réhabilitation d'infrastructures hydrauliques urbaines et rurales pour l'approvisionnement en eau."
+      },
+      {
+        "title": "Construction de Bâtiments",
+        "description": "Édification de structures résidentielles, commerciales et industrielles selon les plus hauts standards de qualité."
+      },
+      {
+        "title": "Études Architecturales",
+        "description": "Conception et planification détaillée de projets architecturaux innovants et fonctionnels."
+      },
+      {
+        "title": "Topographie",
+        "description": "Relevés topographiques précis et cartographie détaillée des terrains pour une planification optimale."
+      },
+      {
+        "title": "Supervision de Chantier",
+        "description": "Contrôle rigoureux et suivi expert des travaux pour garantir la conformité aux plans et aux normes."
+      },
+      {
+        "title": "Consultation Technique",
+        "description": "Expertise et conseils professionnels pour optimiser vos projets de construction et d'ingénierie."
+      }
+    ],
+    "cta": {
+      "description": "Notre équipe d'experts est prête à relever tous vos défis techniques et à vous accompagner à chaque étape de votre projet, de la conception à la réalisation.",
+      "button": "Demander un Devis"
+    }
+  },
+  "partners": {
+    "title": "Nos Partenaires",
+    "subtitle": "Ils nous font confiance",
+    "description": "Nous collaborons avec des institutions et organisations prestigieuses pour offrir l'excellence dans chaque projet."
+  }
+}
