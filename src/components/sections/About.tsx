@@ -80,20 +80,20 @@ export const About: React.FC = () => {
             <div className="absolute -bottom-10 -left-10 bg-white p-6 rounded-lg shadow-xl">
               <div className="grid grid-cols-2 gap-6">
                 <div className="text-center">
-                  <p className="text-4xl font-bold text-blue-900">200+</p>
+                  <p className="text-4xl font-bold text-blue-900">50+</p>
                   <p className="text-gray-600">Projets réalisés</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-4xl font-bold text-blue-900">15+</p>
+                  <p className="text-4xl font-bold text-blue-900">13+</p>
                   <p className="text-gray-600">Années d'expérience</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-4xl font-bold text-blue-900">50+</p>
+                  <p className="text-4xl font-bold text-blue-900">10+</p>
                   <p className="text-gray-600">Experts & ingénieurs</p>
                 </div>
                 <div className="text-center">
-                  <p className="text-4xl font-bold text-blue-900">12</p>
-                  <p className="text-gray-600">Pays d'intervention</p>
+                  <p className="text-4xl font-bold text-blue-900">15</p>
+                  <p className="text-gray-600">villes d'intervention</p>
                 </div>
               </div>
             </div>
