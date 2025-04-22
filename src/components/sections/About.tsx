@@ -13,7 +13,7 @@ export const About: React.FC = () => {
               Notre Histoire et Notre Expertise
             </h2>
             <p className="text-gray-600 mb-6">
-              Depuis plus de 13 ans, <span className="font-semibold">HydroBuild</span> s'impose comme 
+              Depuis plus de 13 ans, <span className="font-semibold">BEAC CONSULTING</span> s'impose comme 
               un leader dans le domaine de la construction et de l'ingénierie hydraulique en Afrique de l'Ouest. 
               Notre équipe pluridisciplinaire apporte son expertise technique et son savoir-faire à chaque projet.
             </p>
