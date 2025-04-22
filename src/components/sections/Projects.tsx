@@ -17,13 +17,13 @@ const projects = [
     id: 1,
     title: "Barrage de Diama",
     category: "hydraulic",
-    location: "Fleuve Sénégal",
-    year: "2020",
+    location: "Amsinnetté Brahim, Canton Bénissette",
+    year: "2013-2014",
     image: "https://images.pexels.com/photos/1585330/pexels-photo-1585330.jpeg",
-    description: "Réhabilitation et renforcement du barrage avec mise en place de nouvelles vannes et systèmes de régulation.",
+    description: "La maitrise d’œuvre du projet relatif aux travaux de  réalisation d’une pompe d’eau à motricité humaine .",
     details: {
-      client: "Office de Mise en Valeur du Fleuve Sénégal",
-      duration: "18 mois",
+      client: "PROADEL 2",
+      duration: "4 mois",
       challenge: "Le principal défi était de moderniser les systèmes de régulation du barrage tout en maintenant son fonctionnement pour ne pas perturber l'approvisionnement en eau des zones agricoles environnantes.",
       solution: "Nous avons mis en place une approche par phases, permettant de remplacer les vannes une par une tout en maintenant la capacité opérationnelle du barrage. L'installation de nouveaux systèmes de contrôle automatisés a permis d'optimiser la gestion des débits.",
       impact: "Le projet a permis d'améliorer l'efficacité du barrage de 40%, réduisant les pertes d'eau et optimisant la distribution pour l'irrigation de plus de 100,000 hectares de terres agricoles.",
@@ -38,13 +38,13 @@ const projects = [
     id: 2,
     title: "Tour Diamant",
     category: "buildings",
-    location: "Dakar, Sénégal",
-    year: "2021",
+    location: " N’djamena, Tchad",
+    year: "2014",
     image: "https://images.pexels.com/photos/2079234/pexels-photo-2079234.jpeg",
-    description: "Construction d'un complexe de bureaux de 18 étages avec intégration de solutions énergétiques durables.",
+    description: "Construction d'un complexe de bureaux  avec intégration de solutions énergétiques durables.",
     details: {
-      client: "Groupe Immobilier Teranga",
-      duration: "24 mois",
+      client: "CENTRE NATIONAL DE CURRUCULA ",
+      duration: "28 mois",
       challenge: "Construire une tour de bureaux moderne respectant les normes internationales de durabilité tout en s'adaptant aux conditions climatiques locales.",
       solution: "Utilisation de matériaux écologiques et mise en place de systèmes d'énergie solaire intégrés. Installation d'un système de récupération des eaux de pluie et de traitement des eaux usées.",
       impact: "Réduction de 60% de la consommation énergétique par rapport aux bâtiments traditionnels. Certification LEED Gold obtenue.",
@@ -55,38 +55,38 @@ const projects = [
       ]
     }
   },
-  {
-    id: 3,
-    title: "Système d'irrigation Bakel",
-    category: "hydraulic",
-    location: "Bakel, Sénégal",
-    year: "2019",
-    image: "https://images.pexels.com/photos/3736764/pexels-photo-3736764.jpeg",
-    description: "Conception et installation d'un système d'irrigation moderne couvrant 500 hectares de terres agricoles.",
-    details: {
-      client: "Ministère de l'Agriculture",
-      duration: "12 mois",
-      challenge: "Développer un système d'irrigation efficace dans une zone aride avec des ressources en eau limitées.",
-      solution: "Installation d'un système d'irrigation goutte-à-goutte automatisé avec monitoring en temps réel de l'humidité des sols.",
-      impact: "Augmentation de 75% des rendements agricoles et réduction de 40% de la consommation d'eau.",
-      gallery: [
-        "https://images.pexels.com/photos/2132780/pexels-photo-2132780.jpeg",
-        "https://images.pexels.com/photos/2255355/pexels-photo-2255355.jpeg",
-        "https://images.pexels.com/photos/2886937/pexels-photo-2886937.jpeg"
-      ]
-    }
-  },
+  // {
+  //   id: 3,
+  //   title: "Système d'irrigation Bakel",
+  //   category: "hydraulic",
+  //   location: "Bakel, Sénégal",
+  //   year: "2019",
+  //   image: "https://images.pexels.com/photos/3736764/pexels-photo-3736764.jpeg",
+  //   description: "Conception et installation d'un système d'irrigation moderne couvrant 500 hectares de terres agricoles.",
+  //   details: {
+  //     client: "Ministère de l'Agriculture",
+  //     duration: "12 mois",
+  //     challenge: "Développer un système d'irrigation efficace dans une zone aride avec des ressources en eau limitées.",
+  //     solution: "Installation d'un système d'irrigation goutte-à-goutte automatisé avec monitoring en temps réel de l'humidité des sols.",
+  //     impact: "Augmentation de 75% des rendements agricoles et réduction de 40% de la consommation d'eau.",
+  //     gallery: [
+  //       "https://images.pexels.com/photos/2132780/pexels-photo-2132780.jpeg",
+  //       "https://images.pexels.com/photos/2255355/pexels-photo-2255355.jpeg",
+  //       "https://images.pexels.com/photos/2886937/pexels-photo-2886937.jpeg"
+  //     ]
+  //   }
+  // },
   {
     id: 4,
-    title: "Pont sur la Gambie",
+    title: "travaux de construction de l’école communale de Kinguéli",
     category: "infrastructure",
-    location: "Frontière Sénégal-Gambie",
-    year: "2018",
+    location: "koumra, région du mandoul",
+    year: "2013",
     image: "https://images.pexels.com/photos/531321/pexels-photo-531321.jpeg",
     description: "Construction d'un pont de 1.2 km reliant les deux rives du fleuve Gambie.",
     details: {
-      client: "Ministère des Infrastructures",
-      duration: "36 mois",
+      client: "GENECOBAT ( bureau d’études et de contrôle)",
+      duration: "9 mois",
       challenge: "Construction d'un pont majeur dans des conditions fluviales difficiles tout en préservant l'écosystème local.",
       solution: "Utilisation de techniques de construction innovantes et mise en place de mesures de protection environnementale strictes.",
       impact: "Réduction du temps de traversée de 4 heures à 5 minutes. Augmentation des échanges commerciaux de 150%.",
@@ -99,18 +99,19 @@ const projects = [
   },
   {
     id: 5,
-    title: "Centre Hospitalier Régional",
+    title: "centre de santé ",
     category: "buildings",
-    location: "Saint-Louis, Sénégal",
-    year: "2022",
+    location: "Nagatalkadam, Canton de Kadada, Département du Charie",
+    year: "2014",
     image: "https://images.pexels.com/photos/236380/pexels-photo-236380.jpeg",
     description: "Construction d'un hôpital moderne de 200 lits avec équipements de pointe.",
     details: {
-      client: "Ministère de la Santé",
-      duration: "30 mois",
-      challenge: "Créer un établissement de santé moderne répondant aux normes internationales dans un environnement urbain dense.",
-      solution: "Construction modulaire et intégration de technologies médicales avancées avec formation du personnel local.",
-      impact: "Amélioration de l'accès aux soins pour plus de 500,000 habitants. Réduction des évacuations sanitaires de 80%.",
+      client: "PROADEL2 / UGL DE BONGOR ",
+      duration: "6mois",
+      challenge: "Coordonner les travaux de construction d’un établissement de sante  dans un environnement local tout en respectant les délais impartis.",
+    solution: "Planification rigoureuse des travaux, suivi permanent de l’exécution et coordination avec les intervenants techniques.",
+    impact: "Création d’un cadre d’apprentissage structuré pour les élèves ; amélioration de l’accès à l’éducation dans la région du Mandoul.",
+    poste: "Directeur Général  / Chef de mission",
       gallery: [
         "https://images.pexels.com/photos/247786/pexels-photo-247786.jpeg",
         "https://images.pexels.com/photos/1692693/pexels-photo-1692693.jpeg",
@@ -118,27 +119,27 @@ const projects = [
       ]
     }
   },
-  {
-    id: 6,
-    title: "Réseau d'eau potable rural",
-    category: "rural",
-    location: "Région de Kaffrine",
-    year: "2021",
-    image: "https://images.pexels.com/photos/416471/pexels-photo-416471.jpeg",
-    description: "Installation de puits et réseaux de distribution d'eau potable dans 15 villages ruraux.",
-    details: {
-      client: "Direction de l'Hydraulique Rurale",
-      duration: "15 mois",
-      challenge: "Fournir un accès durable à l'eau potable dans des zones rurales isolées avec des ressources limitées.",
-      solution: "Installation de pompes solaires et formation des comités villageois pour la maintenance des installations.",
-      impact: "Accès à l'eau potable pour plus de 25,000 habitants. Réduction des maladies hydriques de 65%.",
-      gallery: [
-        "https://images.pexels.com/photos/2537607/pexels-photo-2537607.jpeg",
-        "https://images.pexels.com/photos/2765871/pexels-photo-2765871.jpeg",
-        "https://images.pexels.com/photos/2519390/pexels-photo-2519390.jpeg"
-      ]
-    }
-  }
+  // {
+  //   id: 6,
+  //   title: "Réseau d'eau potable rural",
+  //   category: "rural",
+  //   location: "Région de Kaffrine",
+  //   year: "2021",
+  //   image: "https://images.pexels.com/photos/416471/pexels-photo-416471.jpeg",
+  //   description: "Installation de puits et réseaux de distribution d'eau potable dans 15 villages ruraux.",
+  //   details: {
+  //     client: "Direction de l'Hydraulique Rurale",
+  //     duration: "15 mois",
+  //     challenge: "Fournir un accès durable à l'eau potable dans des zones rurales isolées avec des ressources limitées.",
+  //     solution: "Installation de pompes solaires et formation des comités villageois pour la maintenance des installations.",
+  //     impact: "Accès à l'eau potable pour plus de 25,000 habitants. Réduction des maladies hydriques de 65%.",
+  //     gallery: [
+  //       "https://images.pexels.com/photos/2537607/pexels-photo-2537607.jpeg",
+  //       "https://images.pexels.com/photos/2765871/pexels-photo-2765871.jpeg",
+  //       "https://images.pexels.com/photos/2519390/pexels-photo-2519390.jpeg"
+  //     ]
+  //   }
+  // }
 ];
 
 export const Projects: React.FC = () => {

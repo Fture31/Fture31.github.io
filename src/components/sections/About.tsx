@@ -105,7 +105,7 @@ export const About: React.FC = () => {
           <SectionHeading
             title="Nos Valeurs"
             subtitle="Ce qui guide notre travail au quotidien"
-            description="Chez HydroBuild, nos valeurs sont le fondement de toutes nos actions et décisions."
+            description="Chez BIAC CONSULTING, nos valeurs sont le fondement de toutes nos actions et décisions."
             centered
           />
 

@@ -26,7 +26,7 @@ export const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900">Adresse</h4>
-                  <p className="text-gray-600 mt-1">123 Avenue de l'Ingénierie, Dakar, Sénégal</p>
+                  <p className="text-gray-600 mt-1">Amtoukouin, Ndjamena, Tchad</p>
                 </div>
               </div>
               
@@ -36,8 +36,7 @@ export const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900">Téléphone</h4>
-                  <p className="text-gray-600 mt-1">+221 77 123 45 67</p>
-                  <p className="text-gray-600">+221 33 123 45 67</p>
+                  <p className="text-gray-600 mt-1">+235 66 13 02 77</p>
                 </div>
               </div>
               
@@ -47,8 +46,9 @@ export const Contact: React.FC = () => {
                 </div>
                 <div>
                   <h4 className="font-medium text-gray-900">Email</h4>
-                  <p className="text-gray-600 mt-1">contact@hydrobuild.com</p>
-                  <p className="text-gray-600">info@hydrobuild.com</p>
+                  <p className="text-gray-600 mt-1">biacconsulting@yahoo.fr
+                  </p>
+                  {/* <p className="text-gray-600">info@hydrobuild.com</p> */}
                 </div>
               </div>
               
