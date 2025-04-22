@@ -34,9 +34,15 @@ export const Header: React.FC = () => {
       <Container>
         <div className="flex items-center justify-between">
           <div className="flex items-center">
-            <div className="text-2xl font-bold text-blue-900 flex items-center">
-              <span className="text-orange-500 mr-1">B</span>IAC<span className="text-orange-500">C</span>ONSULTING
-            </div>
+          <div className="text-2xl font-bold text-blue-900 flex items-center">
+            <span className="text-orange-500 mr-1">B</span>
+            IAC&nbsp;
+            <span className="text-orange-500 mr-1">C</span>
+            ONSULTING
+          </div>
+
+
+
           </div>
 
           {/* Desktop Navigation */}
